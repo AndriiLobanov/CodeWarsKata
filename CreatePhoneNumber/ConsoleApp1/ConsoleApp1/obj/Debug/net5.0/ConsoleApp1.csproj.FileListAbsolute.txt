@@ -1,0 +1,16 @@
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\.csharp\CreatePhoneNumber\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

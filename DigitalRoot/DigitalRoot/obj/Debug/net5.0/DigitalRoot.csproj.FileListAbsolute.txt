@@ -1,0 +1,16 @@
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\bin\Debug\net5.0\DigitalRoot.exe
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\bin\Debug\net5.0\DigitalRoot.deps.json
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\bin\Debug\net5.0\DigitalRoot.runtimeconfig.json
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\bin\Debug\net5.0\DigitalRoot.runtimeconfig.dev.json
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\bin\Debug\net5.0\DigitalRoot.dll
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\bin\Debug\net5.0\ref\DigitalRoot.dll
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\bin\Debug\net5.0\DigitalRoot.pdb
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.csproj.AssemblyReference.cache
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.GeneratedMSBuildEditorConfig.editorconfig
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.AssemblyInfoInputs.cache
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.AssemblyInfo.cs
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.csproj.CoreCompileInputs.cache
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.dll
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\ref\DigitalRoot.dll
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.pdb
+E:\.csharp\codeWars_Trainin\DigitalRoot\DigitalRoot\obj\Debug\net5.0\DigitalRoot.genruntimeconfig.cache

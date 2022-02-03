@@ -1,0 +1,16 @@
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\bin\Debug\net5.0\MissingLetter.exe
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\bin\Debug\net5.0\MissingLetter.deps.json
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\bin\Debug\net5.0\MissingLetter.runtimeconfig.json
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\bin\Debug\net5.0\MissingLetter.runtimeconfig.dev.json
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\bin\Debug\net5.0\MissingLetter.dll
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\bin\Debug\net5.0\ref\MissingLetter.dll
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\bin\Debug\net5.0\MissingLetter.pdb
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.GeneratedMSBuildEditorConfig.editorconfig
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.AssemblyInfoInputs.cache
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.AssemblyInfo.cs
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.csproj.CoreCompileInputs.cache
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.dll
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\ref\MissingLetter.dll
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.pdb
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.genruntimeconfig.cache
+E:\.csharp\codeWars_Trainin\MissingLetter\MissingLetter\obj\Debug\net5.0\MissingLetter.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\bin\Debug\net6.0\TortoiseRace.exe
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\bin\Debug\net6.0\TortoiseRace.deps.json
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\bin\Debug\net6.0\TortoiseRace.runtimeconfig.json
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\bin\Debug\net6.0\TortoiseRace.dll
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\bin\Debug\net6.0\ref\TortoiseRace.dll
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\bin\Debug\net6.0\TortoiseRace.pdb
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.csproj.AssemblyReference.cache
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.GeneratedMSBuildEditorConfig.editorconfig
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.AssemblyInfoInputs.cache
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.AssemblyInfo.cs
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.csproj.CoreCompileInputs.cache
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.dll
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\ref\TortoiseRace.dll
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.pdb
+E:\.csharp\codeWars_Trainin\TortoiseRacing\TortoiseRace\obj\Debug\net6.0\TortoiseRace.genruntimeconfig.cache

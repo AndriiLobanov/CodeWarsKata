@@ -1,0 +1,15 @@
+E:\.csharp\codeWars_Trainin\bin\Debug\net6.0\codeWars_Trainin.exe
+E:\.csharp\codeWars_Trainin\bin\Debug\net6.0\codeWars_Trainin.deps.json
+E:\.csharp\codeWars_Trainin\bin\Debug\net6.0\codeWars_Trainin.runtimeconfig.json
+E:\.csharp\codeWars_Trainin\bin\Debug\net6.0\codeWars_Trainin.dll
+E:\.csharp\codeWars_Trainin\bin\Debug\net6.0\ref\codeWars_Trainin.dll
+E:\.csharp\codeWars_Trainin\bin\Debug\net6.0\codeWars_Trainin.pdb
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.csproj.AssemblyReference.cache
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.GeneratedMSBuildEditorConfig.editorconfig
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.AssemblyInfoInputs.cache
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.AssemblyInfo.cs
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.csproj.CoreCompileInputs.cache
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.dll
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\ref\codeWars_Trainin.dll
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.pdb
+E:\.csharp\codeWars_Trainin\obj\Debug\net6.0\codeWars_Trainin.genruntimeconfig.cache
